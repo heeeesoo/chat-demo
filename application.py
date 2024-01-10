@@ -13,6 +13,7 @@ import aiohttp
 import asyncio
 
 
+
 load_dotenv()  # Load .env variables
 
 if os.environ.get("ENV_STATE") == "prod":
