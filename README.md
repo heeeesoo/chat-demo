@@ -11,3 +11,5 @@ Redis를 이용한 채팅 구현의 이해를 돕기 위해서 만든 데모.
 ```bash
 uvicorn run:app --reload --port 8000
 ```
+
+<img width="703" alt="스크린샷 2024-01-09 오후 4 46 38" src="https://github.com/heeeesoo/chat-demo/assets/73633272/853dc55e-ee58-4b88-b250-fd77c2415941">
